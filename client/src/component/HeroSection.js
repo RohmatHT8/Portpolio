@@ -6,7 +6,7 @@ export default function HeroSection() {
                     <div className="flex flex-wrap">
                         <div className="w-full self-center px-4 lg:w-1/2">
                             <h1 className="font-bold text-primary md:text-xl">Hello Guys, I'm <span className="block font-bold text-4xl mt-1 text-dark">Rohmat Hidayattullah</span></h1>
-                            <h2 className="font-medium text-slate-500 text-lg mb-5 lg:text-2xl">Fullstack Developer</h2>
+                            <h2 className="font-medium text-secondary text-lg mb-5 lg:text-2xl">Fullstack Developer</h2>
                             <p className="font-medium text-slate-400 mb-10 leading-relaxed">Belajar web programing itu mudah dan menuenangkan bukan. Bukan !</p>
                             <a className="text-base font-semibold text-white bg-primary py-3 px-8 rounded-full hover:opacity-80 transition duration-500 easy-in-out cursor-pointer">Contact</a>
                         </div>
